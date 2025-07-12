@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+#scroll::-webkit-scrollbar {
+  display: none;
+}
+
+#btncolor {
+  background-color: #2f3336;
+}
+#btncolor1 {
+  background-color: #2f3336;
+  outline: none;
+}
+#display {
+  outline: none;
+}
+#white {
+  background-color: white;
+}
